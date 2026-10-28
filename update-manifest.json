@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.7",
-    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.7/GlassPlayerSetup.exe",
-    "sha256":  "4D09CFD2D32B685FBDD0E4DDDB6D622E95A7D0F5D6082F82C799B1D45FEBF0D8",
-    "notes":  "Keyboard controls: Space plays or pauses, left/right arrows change song, up/down arrows change the volume."
+    "version":  "1.2.8",
+    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.8/GlassPlayerSetup.exe",
+    "sha256":  "F4E68E0E71690212A9FB03958C65D11BCC7E7DFE789532E1EC61A2B833429C14",
+    "notes":  "Vitra now uses almost no GPU while you are in another app or game. Includes the 1.2.7 keyboard controls."
 }
