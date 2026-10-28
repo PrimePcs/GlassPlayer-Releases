@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.3",
-    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.3/GlassPlayerSetup.exe",
-    "sha256":  "0334B941F4608BDFE307B301C0F34BBA67042E2A7B25808F28C82A55424EB266",
-    "notes":  "Loudness normalization, transparent taskbar icon, update fixes."
+    "version":  "1.2.5",
+    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.5/GlassPlayerSetup.exe",
+    "sha256":  "C17C67A3DF0DD8A2759741E44E86A1AA3A287A21399F1A3E85B5EDAABA43735E",
+    "notes":  "New liquid glass design, EQ now works on Spotify songs, queue, shuffle, crossfade, lyrics, liked songs, media keys and more."
 }
