@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.6",
-    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.6/GlassPlayerSetup.exe",
-    "sha256":  "50559BF7A14B5E1541793C9264A2C8CD239ABA8DBFE290D1D62346EDA419E84D",
-    "notes":  "GlassPlayer is now Vitra. New playlist screen, smooth crossfades, queue fixes, search without a Spotify account, and the Vitra logo."
+    "version":  "1.2.7",
+    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.7/GlassPlayerSetup.exe",
+    "sha256":  "4D09CFD2D32B685FBDD0E4DDDB6D622E95A7D0F5D6082F82C799B1D45FEBF0D8",
+    "notes":  "Keyboard controls: Space plays or pauses, left/right arrows change song, up/down arrows change the volume."
 }
