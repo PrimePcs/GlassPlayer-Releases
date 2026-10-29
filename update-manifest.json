@@ -1,6 +1,6 @@
-﻿{
-    "version":  "1.2.10",
-    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.10/GlassPlayerSetup.exe",
-    "sha256":  "866CA7A1883898EED715A768D69EF5BA869C783F59FBB6199372CDE60E50378B",
-    "notes":  "Fixed shuffle, an All emoji picker, correct song matching, live EQ, global volume keys, animated lyrics and more reliable update checks."
+{
+  "version": "1.2.11",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.11/GlassPlayerSetup.exe",
+  "sha256": "A56B9B1D82D9A2B8F2D92A1ED1FEE82C2180FBEAD799BE09E41103D7D17770D6",
+  "notes": "Fix automatic next-song playback for short/resumed songs, missed end events, and Spotify completion."
 }
