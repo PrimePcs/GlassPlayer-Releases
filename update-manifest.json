@@ -1,6 +1,6 @@
-﻿{
-    "version":  "1.2.8",
-    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.8/GlassPlayerSetup.exe",
-    "sha256":  "F4E68E0E71690212A9FB03958C65D11BCC7E7DFE789532E1EC61A2B833429C14",
-    "notes":  "Vitra now uses almost no GPU while you are in another app or game. Includes the 1.2.7 keyboard controls."
+{
+  "version": "1.2.9",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.9/VirtaPlayerSetup.exe",
+  "sha256": "21C651061EC5D9163F2702634D482A221CCA63DAD412BCCBA91193D83808A1AC",
+  "notes": "Add your own Spotify Client ID in Settings, below the Spotify account. Saves per user and takes effect without restarting. Clearer profile errors."
 }
