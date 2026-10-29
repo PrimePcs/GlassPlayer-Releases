@@ -1,6 +1,6 @@
-{
-  "version": "1.2.9",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.9/VirtaPlayerSetup.exe",
-  "sha256": "21C651061EC5D9163F2702634D482A221CCA63DAD412BCCBA91193D83808A1AC",
-  "notes": "Add your own Spotify Client ID in Settings, below the Spotify account. Saves per user and takes effect without restarting. Clearer profile errors."
+﻿{
+    "version":  "1.2.10",
+    "url":  "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.10/GlassPlayerSetup.exe",
+    "sha256":  "866CA7A1883898EED715A768D69EF5BA869C783F59FBB6199372CDE60E50378B",
+    "notes":  "Fixed shuffle, an All emoji picker, correct song matching, live EQ, global volume keys, animated lyrics and more reliable update checks."
 }
