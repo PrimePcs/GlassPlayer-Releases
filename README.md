@@ -4,7 +4,7 @@ Windows installers and in-app updates for this customized GlassPlayer build.
 
 ## Install
 
-Download **GlassPlayerSetup.exe** from the [latest release](https://github.com/PrimePcs/GlassPlayer-Releases/releases/latest). Updates keep your playlists, uploaded covers, history, Spotify configuration, and playback settings.
+Download **VirtaPlayerSetup.exe** from the [latest release](https://github.com/PrimePcs/GlassPlayer-Releases/releases/latest). Updates keep your playlists, uploaded covers, history, Spotify configuration, and playback settings.
 
 ## Updates
 
