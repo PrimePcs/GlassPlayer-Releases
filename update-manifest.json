@@ -1,6 +1,6 @@
 {
-  "version": "1.2.11",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.11/GlassPlayerSetup.exe",
-  "sha256": "A56B9B1D82D9A2B8F2D92A1ED1FEE82C2180FBEAD799BE09E41103D7D17770D6",
-  "notes": "Fix automatic next-song playback for short/resumed songs, missed end events, and Spotify completion."
+  "version": "1.2.12",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.12/GlassPlayerSetup.exe",
+  "sha256": "D8DD45F8430A9066C30E0DEDB21A4D344CB758B8F2C48C03720151E2C901843D",
+  "notes": "Playback recovery, saved recordings, buffering, playlist tools/backups, live spectrum, rollback, private diagnostics and on-demand Spotify web playback."
 }
