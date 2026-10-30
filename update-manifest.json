@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.12/GlassPlayerSetup.exe",
-  "sha256": "D8DD45F8430A9066C30E0DEDB21A4D344CB758B8F2C48C03720151E2C901843D",
-  "notes": "Playback recovery, saved recordings, buffering, playlist tools/backups, live spectrum, rollback, private diagnostics and on-demand Spotify web playback."
+  "version": "1.2.13",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.13/GlassPlayerSetup.exe",
+  "sha256": "DF7545CC344EFDA014BDC7CA88CE1688D501CB0FB1DF566CC4F620A72F4CD610",
+  "notes": "Fixed skips that kept old audio playing; removed Choose recording and EQ."
 }
