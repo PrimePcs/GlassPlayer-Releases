@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.13/GlassPlayerSetup.exe",
-  "sha256": "DF7545CC344EFDA014BDC7CA88CE1688D501CB0FB1DF566CC4F620A72F4CD610",
-  "notes": "Fixed skips that kept old audio playing; removed Choose recording and EQ."
+  "version": "1.2.14",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.14/GlassPlayerSetup.exe",
+  "sha256": "02E7A958FE44F9C01CC493CFFDEDDA607B7F16F25ECEA7B159E5C0EAC4A75E8C",
+  "notes": "Optional Discord Rich Presence and original Spotify desktop playback, with no YouTube audio."
 }
