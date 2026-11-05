@@ -1,6 +1,6 @@
 {
-  "version": "1.2.14",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.14/GlassPlayerSetup.exe",
-  "sha256": "02E7A958FE44F9C01CC493CFFDEDDA607B7F16F25ECEA7B159E5C0EAC4A75E8C",
-  "notes": "Optional Discord Rich Presence and original Spotify desktop playback, with no YouTube audio."
+  "version": "1.2.16",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.16/GlassPlayerSetup.exe",
+  "sha256": "7ADC35516323116F7F0807BD08C8C82FB56699D742FAE43FFACBA3C7657C17EE",
+  "notes": "Standalone Spotify playback and custom Discord presence: Vitra name, song display, images, progress and two buttons."
 }
