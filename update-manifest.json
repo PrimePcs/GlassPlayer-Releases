@@ -1,6 +1,6 @@
 {
-  "version": "1.2.18",
-  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.18/GlassPlayerSetup.exe",
-  "sha256": "0E1948EC3E598D88A1D6D26AA421DE4D11D8C599B5833977D18D84F6473225A6",
-  "notes": "Faster song loading, reused Spotify player sessions and direct prepared-track skips."
+  "version": "1.2.19",
+  "url": "https://github.com/PrimePcs/GlassPlayer-Releases/releases/download/v1.2.19/GlassPlayerSetup.exe",
+  "sha256": "B1CF7E341292406266E1169B9285C1CBABEF4BA6CB31B0FBC8D9FF9AA77C6866",
+  "notes": "Artist profiles, redesigned playlist library and the Discord time-in-song clock."
 }
